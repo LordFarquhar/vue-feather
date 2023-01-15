@@ -144,7 +144,6 @@ export default defineComponent({
 
 .vue-feather {
   display: inline-block;
-  overflow: hidden;
 
   &--spin {
     animation: vue-feather--spin 2s linear infinite;
